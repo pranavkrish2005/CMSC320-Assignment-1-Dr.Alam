@@ -9,3 +9,7 @@ Answer: Data science can be applied to any field but one particular field is mac
 Q3: What is the difference between merging and rebasing?
 
 Answer: Git merge preserves the branches when they are combined. It combines the changes. Git rebase moves the changes from one brach to another so there is no history of another brach when they are merged.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: My Pandas and python skills and learning how to clean data
