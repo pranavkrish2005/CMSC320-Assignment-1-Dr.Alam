@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Git is industry standard and it is popoular and easy to use
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to any field but one particular field is machine learning. Processing the input data in ML is very important. When predicting house prices for example, you might have differnt factors that influence the house price that you might want to add and take into account. Data science can help with that.
